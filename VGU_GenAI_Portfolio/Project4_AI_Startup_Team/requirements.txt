@@ -1,0 +1,8 @@
+streamlit
+openai
+requests
+torch
+diffusers
+transformers
+accelerate
+pillow
